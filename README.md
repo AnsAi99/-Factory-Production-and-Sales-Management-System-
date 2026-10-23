@@ -63,10 +63,3 @@ To run the database and insert the mock data:
 
 ---
 *This project was developed as an academic requirement to learn and apply relational database engineering.*
-```eof
-
-Here is the translated English version of the README file! It maintains the professional structure of the original while using standard database and ERP terminology. 
-
-<FollowUp>
-Is there anything else you would like to add to this English version, such as a section for future improvements or specific installation prerequisites?
-</FollowUp>
